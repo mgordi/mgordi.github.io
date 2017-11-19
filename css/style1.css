@@ -15,7 +15,6 @@ h1{
 
 header {
 	background: url('../img/img_01.jpeg') no-repeat center center fixed;
-
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -115,6 +114,10 @@ a {
 .link-home {
 	transition: ease-out;
 
+}
+
+a:hover {
+	text-decoration: none;
 }
 
 /*.fa {
